@@ -1,0 +1,386 @@
+{
+ "updated": "2026-09-28",
+ "note": "FBS-vs-FBS games absent from Repole's files, with scores from James Howell's pages. 'score' is visitor-home.",
+ "rows": [
+  {
+   "season": 1992,
+   "date": "1992-09-12",
+   "visitor": "Pacific",
+   "home": "Nevada",
+   "score": "14-20",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-09-26",
+   "visitor": "New Mexico State",
+   "home": "Utah State",
+   "score": "21-48",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-10-03",
+   "visitor": "Nevada",
+   "home": "Fullerton State",
+   "score": "19-0",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-10-03",
+   "visitor": "Nevada-Las Vegas",
+   "home": "Pacific",
+   "score": "21-17",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-10-10",
+   "visitor": "Nevada-Las Vegas",
+   "home": "New Mexico State",
+   "score": "10-40",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-10-10",
+   "visitor": "Fullerton State",
+   "home": "San Jose State",
+   "score": "3-49",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-10-17",
+   "visitor": "Nevada",
+   "home": "Nevada-Las Vegas",
+   "score": "14-10",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-10-17",
+   "visitor": "Pacific",
+   "home": "New Mexico State",
+   "score": "49-17",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-10-24",
+   "visitor": "New Mexico State",
+   "home": "Nevada",
+   "score": "21-35",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-10-24",
+   "visitor": "San Jose State",
+   "home": "Utah State",
+   "score": "27-25",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-10-31",
+   "visitor": "Utah State",
+   "home": "Fullerton State",
+   "score": "26-7",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-10-31",
+   "visitor": "San Jose State",
+   "home": "Nevada-Las Vegas",
+   "score": "31-35",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-11-07",
+   "visitor": "Fullerton State",
+   "home": "Pacific",
+   "score": "20-23",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-11-07",
+   "visitor": "Nevada",
+   "home": "San Jose State",
+   "score": "35-39",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-11-07",
+   "visitor": "Nevada-Las Vegas",
+   "home": "Utah State",
+   "score": "8-48",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-11-14",
+   "visitor": "Utah State",
+   "home": "Nevada",
+   "score": "47-48",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-11-14",
+   "visitor": "Fullerton State",
+   "home": "New Mexico State",
+   "score": "31-44",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-11-14",
+   "visitor": "San Jose State",
+   "home": "Pacific",
+   "score": "28-27",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-11-21",
+   "visitor": "Utah State",
+   "home": "Pacific",
+   "score": "38-35",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-11-21",
+   "visitor": "New Mexico State",
+   "home": "San Jose State",
+   "score": "34-24",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-11-28",
+   "visitor": "Fullerton State",
+   "home": "Nevada-Las Vegas",
+   "score": "16-33",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1992,
+   "date": "1992-12-18",
+   "visitor": "Bowling Green",
+   "home": "Nevada",
+   "score": "35-34",
+   "neutral": true,
+   "site": "@ Las Vegas, NV",
+   "note": "Las Vegas Bowl"
+  },
+  {
+   "season": 1993,
+   "date": "1993-09-11",
+   "visitor": "New Mexico State",
+   "home": "Arkansas State",
+   "score": "22-19",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-10-02",
+   "visitor": "Nevada-Las Vegas",
+   "home": "Nevada",
+   "score": "14-49",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-10-16",
+   "visitor": "San Jose State",
+   "home": "New Mexico State",
+   "score": "52-13",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-10-16",
+   "visitor": "Nevada",
+   "home": "Utah State",
+   "score": "48-44",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-10-23",
+   "visitor": "Utah State",
+   "home": "Nevada-Las Vegas",
+   "score": "33-26",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-10-23",
+   "visitor": "New Mexico State",
+   "home": "Pacific",
+   "score": "27-23",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-10-30",
+   "visitor": "New Mexico State",
+   "home": "Nevada-Las Vegas",
+   "score": "52-40",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-10-30",
+   "visitor": "Nevada",
+   "home": "Pacific",
+   "score": "31-23",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-11-06",
+   "visitor": "San Jose State",
+   "home": "Nevada",
+   "score": "45-46",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-11-06",
+   "visitor": "Pacific",
+   "home": "Utah State",
+   "score": "21-24",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-11-13",
+   "visitor": "Nevada",
+   "home": "New Mexico State",
+   "score": "34-14",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-11-13",
+   "visitor": "Arkansas State",
+   "home": "Pacific",
+   "score": "6-20",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-11-13",
+   "visitor": "Nevada-Las Vegas",
+   "home": "San Jose State",
+   "score": "28-14",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-11-20",
+   "visitor": "Nevada",
+   "home": "Arkansas State",
+   "score": "21-23",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-11-20",
+   "visitor": "Utah State",
+   "home": "New Mexico State",
+   "score": "20-17",
+   "neutral": false,
+   "site": null,
+   "note": null
+  },
+  {
+   "season": 1993,
+   "date": "1993-11-20",
+   "visitor": "Pacific",
+   "home": "San Jose State",
+   "score": "24-20",
+   "neutral": false,
+   "site": null,
+   "note": null
+  }
+ ]
+}
