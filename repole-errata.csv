@@ -1,4 +1,5 @@
 file,date,visitor,home,fix,published_score,corrected_score,published_home_line,corrected_home_line,swap_home,corrected_date,confirmed_by,note
+ncaa1979lines.xml,1979-09-08,Texas-Arlington,West Texas A+M,wrong score,6-10,10-6,,,,,Howell + CFBD,
 ncaa1979lines.xml,1979-11-03,Tulane,Boston College,wrong score,41-8,43-8,5,,,,Howell,
 ncaa1979lines.xml,1979-11-24,Penn State,Pittsburgh,reversed home + wrong date,14-29,,0,,yes,1979-12-01,Howell,the file has the game a week early and at Pittsburgh; it was Dec 1 at Penn State
 ncaa1980lines.xml,1980-11-01,Texas A+M,S-M-U,wrong score,0-20,0-27,-8,,,,Howell,
@@ -9,6 +10,7 @@ ncaa1983lines.xml,1983-11-19,Central Michigan,Toledo,wrong score,34-8,34-6,,,,,H
 ncaa1992lines.xml,1992-09-05,Iowa,Miami-Florida,reversed home,7-24,,-13.5,,yes,,Howell,
 ncaa1992lines.xml,1992-09-05,Temple,Boston University,reversed home,35-0,,,,yes,,Howell,
 ncaa1992lines.xml,1992-09-19,UL-Lafayette,San Jose State,wrong score,13-28,13-38,-10,,,,Howell,
+ncaa1992lines.xml,1992-10-24,Delaware,Navy,reversed home,37-21,,,,yes,,Howell + CFBD,the file has Delaware at Navy; it was Navy at Delaware
 ncaa1992lines.xml,1992-10-31,Missouri,Iowa State,wrong score,28-14,14-28,2.5,,,,Howell,
 ncaa1992lines.xml,1992-11-07,UTEP,Tulsa,wrong score,39-49,39-48,-10,,,,Howell,
 ncaa1992lines.xml,1992-11-14,East Carolina,Arkansas State,reversed home,35-18,,26,,yes,,Howell,
@@ -44,6 +46,7 @@ ncaa2002lines.xml,2002-11-23,Illinois,Northwestern,wrong score,31-23,31-24,14,,,
 ncaa2002lines.xml,2002-11-23,Minnesota,Wisconsin,wrong score,21-39,31-49,-7,,,,Howell + cfbfastR + CFBD,
 ncaa2002lines.xml,2002-11-23,Army,Memphis,wrong score,10-31,10-38,-14.5,,,,Howell + cfbfastR + CFBD,
 ncaa2003lines.xml,2003-08-30,Mississippi,Vanderbilt,wrong score,20-14,24-21,13,,,,Howell + cfbfastR + CFBD,
+ncaa2003lines.xml,2003-09-06,William + Mary,Western Michigan,wrong score,21-42,24-56,,,,,Howell + cfbfastR + CFBD,
 ncaa2003lines.xml,2003-09-13,Virginia,Western Michigan,wrong score,58-16,59-16,6.5,,,,Howell + cfbfastR + CFBD,
 ncaa2003lines.xml,2003-10-11,S-M-U,San Jose State,wrong score,14-48,14-31,-8.5,,,,Howell + cfbfastR + CFBD,
 ncaa2003lines.xml,2003-11-22,Oklahoma State,Baylor,wrong score,38-27,38-21,27,,,,Howell + cfbfastR + CFBD,

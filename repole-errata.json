@@ -1,8 +1,22 @@
 {
  "version": 1,
- "updated": "2026-09-28",
+ "updated": "2026-09-29",
  "note": "Corrections to Warren Repole's Sunshine Forecast files, keyed by file, date, visitor and home exactly as the file names them. 'score' is the corrected visitor-home score; 'swapHome' means the file lists the true home team as the visitor; 'homeSpread' is the corrected home line (negative = home favored); 'newDate' is the corrected date. 'published' holds what the file says. See README.md.",
  "rows": [
+  {
+   "file": "ncaa1979lines.xml",
+   "date": "1979-09-08",
+   "visitor": "Texas-Arlington",
+   "home": "West Texas A+M",
+   "score": "10-6",
+   "source": "Howell + CFBD",
+   "published": {
+    "score": "6-10",
+    "visitorLine": "",
+    "homeLine": "",
+    "info": null
+   }
+  },
   {
    "file": "ncaa1979lines.xml",
    "date": "1979-11-03",
@@ -143,6 +157,21 @@
     "score": "13-28",
     "visitorLine": "10.0",
     "homeLine": "-10",
+    "info": null
+   }
+  },
+  {
+   "file": "ncaa1992lines.xml",
+   "date": "1992-10-24",
+   "visitor": "Delaware",
+   "home": "Navy",
+   "swapHome": true,
+   "source": "Howell + CFBD",
+   "note": "the file has Delaware at Navy; it was Navy at Delaware",
+   "published": {
+    "score": "37-21",
+    "visitorLine": "",
+    "homeLine": "",
     "info": null
    }
   },
@@ -634,6 +663,20 @@
     "score": "20-14",
     "visitorLine": "-13.0",
     "homeLine": "13",
+    "info": null
+   }
+  },
+  {
+   "file": "ncaa2003lines.xml",
+   "date": "2003-09-06",
+   "visitor": "William + Mary",
+   "home": "Western Michigan",
+   "score": "24-56",
+   "source": "Howell + cfbfastR + CFBD",
+   "published": {
+    "score": "21-42",
+    "visitorLine": "",
+    "homeLine": "",
     "info": null
    }
   },

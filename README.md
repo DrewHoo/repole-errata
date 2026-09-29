@@ -6,8 +6,12 @@ While building [cfb-streak-king](https://github.com/DrewHoo/cfb-streak-king) I c
 
 | file | rows | what |
 |---|---|---|
-| `repole-errata.csv` / `.json` | 75 | 58 wrong scores, 6 blank bowl scores, 9 reversed home teams, 4 wrong lines, 2 wrong dates |
+| `repole-errata.csv` / `.json` | 78 | 60 wrong scores, 6 blank bowl scores, 10 reversed home teams, 4 wrong lines, 2 wrong dates |
 | `missing-games.csv` / `.json` | 38 | games absent from the files, nearly all 1992–93 Big West, with Howell's scores |
+
+Three rows were added on 2026-09-29: UT Arlington at West Texas A&M 1979, Navy at Delaware 1992 (the file has it at Navy), and William & Mary at Western Michigan 2003. All three involve a school that later left the top division. The first comparison couldn't match those schools' names across sources; once it could, Howell's pages disagreed with the file, and CFBD confirms each fix.
+
+One game stays open. For Colgate at UConn on 2000-09-09, the file says 34–7, Howell says 37–7, and Wikipedia says 27–7. It isn't in the list because no two sources agree on a correction.
 
 ## How to read a row
 
