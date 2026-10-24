@@ -7,6 +7,7 @@ ncaa1980lines.xml,1980-11-22,Pittsburgh,Penn State,wrong date,14-9,,4,,,1980-11-
 ncaa1981lines.xml,1981-11-07,Rhode Island,Brown,reversed home,8-10,,,,yes,,Howell,
 ncaa1982lines.xml,1982-10-16,Temple,Pittsburgh,wrong score,7-38,17-38,-21,,,,Howell,
 ncaa1983lines.xml,1983-11-19,Central Michigan,Toledo,wrong score,34-8,34-6,,,,,Howell,
+ncaa1990lines.xml,1990-12-01,Alabama,Auburn,reversed home,16-7,,2.5,,yes,,Wikipedia,"the file has Auburn as the home team; 1990 was Alabama's designated home game at Legion Field. Howell writes 'vs.' for every Legion Field Iron Bowl, so he can't vote; the receipt is Wikipedia's Iron Bowl article."
 ncaa1992lines.xml,1992-09-05,Iowa,Miami-Florida,reversed home,7-24,,-13.5,,yes,,Howell,
 ncaa1992lines.xml,1992-09-05,Temple,Boston University,reversed home,35-0,,,,yes,,Howell,
 ncaa1992lines.xml,1992-09-19,UL-Lafayette,San Jose State,wrong score,13-28,13-38,-10,,,,Howell,
@@ -64,7 +65,7 @@ ncaa2008lines.xml,2008-09-20,Rice,Texas,wrong score,10-32,10-52,-28.5,,,,Howell 
 ncaa2008lines.xml,2008-09-27,Navy,Wake Forest,wrong spread,24-17,,-15.5,-3,,,"cfbfastR (11 books, all Wake Forest -3)",the file says -15.5
 cfb2009lines.xml,2009-09-03,Oregon,Boise State,wrong score,9-19,8-19,-3,,,,Howell + cfbfastR + CFBD,
 cfb2009lines.xml,2009-09-05,Army,Eastern Michigan,wrong score,27-17,27-14,-3.5,,,,Howell + cfbfastR + CFBD,
-cfb2010lines.xml,2010-09-06,Maryland,Navy,wrong spread,17-14,,6.5,-6.5,,,"cfbfastR (12 books, Navy -6.5) + money line",the file has the favorite backwards; Navy was favored
+cfb2010lines.xml,2010-09-06,Maryland,Navy,wrong spread,17-14,,6.5,-6.5,,,"cfbfastR (12 books, Navy -6.5; the money line agrees)",the file has the favorite backwards; Navy was favored
 cfb2010lines.xml,2010-09-18,Boise State,Wyoming,wrong score,50-6,51-6,23.5,,,,Howell + cfbfastR + CFBD,
 cfb2011lines.xml,2011-09-10,Utah,Southern Cal,wrong score,14-17,14-23,-8.5,,,,Howell + cfbfastR + CFBD,
 cfb2011lines.xml,2011-10-06,California,Oregon,wrong score,14-43,15-43,-24,,,,Howell + cfbfastR + CFBD,
